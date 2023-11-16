@@ -5,7 +5,7 @@ ChartJS.register(
     CategoryScale,
     LinearScale,
     PointElement,
-    LineElement);
+    LineElement)
 
 const Linechart = () => {
     var data = {
